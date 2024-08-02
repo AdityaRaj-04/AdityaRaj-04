@@ -3,6 +3,7 @@
 - 👀A dedicated and detail-oriented Data Analyst with a passion for turning complex data into actionable insights. , I specialize in statistical analysis, data modeling, and data visualisation.
   
   🌱 I’m currently learning Data Analysis
+  
   📫 How to reach me: abhirsingh7@gmail.com
 <!--
 **AdityaRaj-04/AdityaRaj-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
