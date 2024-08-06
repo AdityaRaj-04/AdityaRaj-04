@@ -1,6 +1,9 @@
  ##                                    Hi 👋 I'm Aditya Raj
 
+
 ##                                      “Data is the new oil.” — Clive Humby
+
+
 
 I’m Aditya Raj, a dedicated and detail-oriented Data Analyst with a passion for turning complex data into actionable insights.I specialize in statistical analysis, data modeling, and Exploratory data analysis and data visualisation.
 I have honed my skills in extracting, cleaning, and interpreting complex datasets to enhance business performance. I am adept at using advanced analytical techniques and tools to provide deep insights and support data-driven decision-making. My technical expertise extends to areas like MY Sql , Excel , Power-BI & Different Python libraries like Pandas , NumPy , Matplotlib , Seaborn , Selenium , Beaytiful Soup .
